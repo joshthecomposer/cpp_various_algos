@@ -1,11 +1,11 @@
 # C++ Algos
 
-1) Bleep
+### 1) Bleep
 * Write a function that takes in a word and a paragraph. 
 * Every instance of this word should be replaced with asterisks (it "bleeps" the word). 
 * Use a reference to the paragraph input variable to alter it from within the function without a return.git 
 
-2) Hanoi
+### 2) Hanoi  
 Towers of Hanoi is a simple game consisting of three rods, and a number of disks of different sizes which can slide onto any rod. The puzzle starts with the disks in a neat stack in ascending order of size on one rod, the smallest at the top, thus making a conical shape.  
   
 The objective of the puzzle is to move the entire stack to another rod, obeying the following simple rules:  
