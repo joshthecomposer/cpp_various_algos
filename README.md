@@ -13,3 +13,8 @@ The objective of the puzzle is to move the entire stack to another rod, obeying 
 * Only one disk can be moved at a time.
 * Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack i.e. a disk can only be moved if it is the uppermost disk on a stack.
 * No disk may be placed on top of a smaller disk.
+
+### 3) Narcissistic Number
+A Narcissistic Number (or Armstrong Number) is a positive number which is the sum of its own digits, each raised to the power of the number of digits in a given base. In this Kata, we will restrict ourselves to decimal (base 10).
+
+* Your code must return true or false depending upon whether the given number is a Narcissistic number in base 10.
