@@ -1,4 +1,5 @@
 # C++ Algos
+These are mostly random algos from CodeWars.  
 
 ### 1) Bleep
 * Write a function that takes in a word and a paragraph. 
