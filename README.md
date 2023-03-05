@@ -34,8 +34,8 @@ Implement the function which takes an array containing the names of people that 
 Note: For 4 or more names, the number in "and 2 others" simply increases.
 
 ### 5) Persistent Bugger
-Write a function, `persistence`, that takes in a positive parameter `num` and returns its multiplicative persistence, which is the number of times you must multiply the digits in `num` until you reach a single digit.
-
+Write a function, `persistence`, that takes in a positive parameter `num` and returns its multiplicative persistence, which is the number of times you must multiply the digits in `num` until you reach a single digit.  
+  
 For example (Input --> Output):
 
 ```
@@ -43,4 +43,13 @@ For example (Input --> Output):
 999 --> 4 (because 9*9*9 = 729, 7*2*9 = 126, 1*2*6 = 12, and finally 1*2 = 2)
 4 --> 0 (because 4 is already a one-digit number)
 
+```
+
+### 6) Sort the Odd
+You will be given an array of numbers. You have to sort the odd numbers in ascending order while leaving the even numbers at their original positions.  
+Examples:  
+```
+[7, 1]  =>  [1, 7]
+[5, 8, 6, 3, 4]  =>  [3, 8, 6, 5, 4]
+[9, 8, 7, 6, 5, 4, 3, 2, 1, 0]  =>  [1, 8, 3, 6, 5, 4, 7, 2, 9, 0]
 ```
